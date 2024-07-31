@@ -93,7 +93,7 @@ export default function Home() {
           >
           {isButtonEnabled ?
             'Found!' :
-            'Search an existing username'
+            'No user found'
           }
           </button>
         )}
