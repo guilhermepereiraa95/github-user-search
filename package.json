@@ -9,11 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "autocomplete": "^0.0.1",
     "axios": "^1.7.2",
     "next": "14.2.5",
+    "primereact": "^10.8.0",
     "react": "^18",
     "react-dom": "^18",
-    "react-icons": "^5.2.1"
+    "react-icons": "^5.2.1",
+    "react-spinners": "^0.14.1",
+    "rxjs": "^7.8.1"
   },
   "devDependencies": {
     "@types/node": "^20",
